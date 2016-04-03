@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '195980847:AAENfGy_AJCW4JY7D5H66q9hBqWRSQKaCBE',
 	yandex_api_key = '',
 	time_offset = 0,
 	cli_port = 4567,
