@@ -15,9 +15,9 @@ return {
 	},
 	moderation = {
 		admins = {
-			['23646077'] = 'You'
+			['119989724'] = 'Shahab'
 		},
-		admin_group = -00000000,
+		admin_group = -130123544,
 		realm_name = 'My Realm'
 	},
 	plugins = {
